@@ -218,11 +218,3 @@ cd SIH
 * 📊 **Longitudinal Counsellor Dashboard:** Real-time patient triage, baseline tracking, and trend charts.
 * ⚖️ **Contextual Legal/Relief RAG:** Automatic retrieval of relevant legal protections and welfare schemes for active cases.
 * 🛡️ **Offline & Fallback Resilient:** Rule-based conversational and analytical engines guarantee uptime even during external API downtime.
-
----
-
-## Future Scope
-
-* ⌚ **Direct IoT Wearable Integration:** Real-time Bluetooth Low Energy (BLE) streaming from commercial smartbands.
-* 🌐 **Multilingual & Regional Dialect Support:** Expanding speech and emotion models to Indian regional languages (Hindi, Tamil, Telugu, etc.).
-* 📱 **Native Mobile Companion:** React Native mobile application with offline-first voice journaling.
